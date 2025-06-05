@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 337
     height: 629
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 205
     height: 466
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -121,8 +121,8 @@ MonoBehaviour:
     y: 466
     width: 1029
     height: 163
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 101, y: 126}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 12}
@@ -453,8 +453,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1029
-    y: 79
+    x: 1030
+    y: 24
     width: 336
     height: 603
   m_SerializedDataModeController:
@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 204
     height: 440
   m_SerializedDataModeController:
@@ -520,8 +520,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0ab00000
-      m_LastClickedID: 45066
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: b6eeffff22f1ffff92f2ffff30f6ffff20fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1176,7 +1176,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.32391614, y: 0.092046194, z: -0.031681888, w: 0.94106513}
     speed: 2
-    m_Value: {x: 0.3239159, y: 0.09204613, z: -0.031681865, w: 0.9410645}
+    m_Value: {x: -0.3239161, y: -0.092046194, z: 0.031681888, w: -0.94106513}
   m_Size:
     m_Target: 25.824558
     speed: 2
@@ -1235,8 +1235,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 205
-    y: 79
+    x: 206
+    y: 24
     width: 822
     height: 440
   m_SerializedDataModeController:
@@ -1337,7 +1337,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 545
+    y: 490
     width: 1028
     height: 137
   m_SerializedDataModeController:
